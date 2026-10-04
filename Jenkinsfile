@@ -25,4 +25,3 @@ pipeline {
         }
 
 
-head -5 Jenkinsfile
